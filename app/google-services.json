@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "647273654908",
+    "project_id": "coding-quiz-application",
+    "storage_bucket": "coding-quiz-application.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647273654908:android:530b8fa6aab8897c5ab7f9",
+        "android_client_info": {
+          "package_name": "com.abhishekmaurya.codingquizapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZIuxN_dYeE42ASlBl9e-AjVhi-k5ukPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
